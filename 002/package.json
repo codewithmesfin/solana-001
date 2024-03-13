@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "esrun": "^3.2.26",
+    "typescript": "^5.4.2", 
+    "dotenv": "^16.4.5"
+  }
+}
